@@ -6,4 +6,6 @@ upcommerce:
   image: uonyeka/upcommerce:v3
 canary:
   image: uonyeka/canary:linux-amd64
+  canary:
+  image: uonyeka/canary:linux-amd64
 
